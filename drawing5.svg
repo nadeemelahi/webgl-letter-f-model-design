@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="396.17335"
+     inkscape:cy="533.95378"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g277"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="778"
+     inkscape:window-height="988"
+     inkscape:window-x="1142"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g277"
+       transform="translate(-23.170005,-32.211979)">
+      <path
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 192.44775,220.31642 -1e-5,-27.97914 -70.59272,-88.14578 v 27.97914 z"
+         id="path108" />
+      <path
+         style="fill:#00ff00;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.54351784"
+         d="M 93.875876,76.212353 164.4686,164.35813 164.58767,192.33727 93.600458,104.1915 Z"
+         id="path937" />
+      <path
+         style="fill:#0000ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 220.42688,136.37898 149.83415,48.233209 v 27.979144 l 70.59273,88.145777 z"
+         id="path110" />
+      <path
+         style="fill:#999999;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 93.875876,132.17064 v 55.95828 l 70.592734,88.14578 v -55.95828 z"
+         id="path319" />
+      <path
+         style="fill:#999999;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 136.48946,276.27469 65.896734,188.12892 h 27.979142 l 70.592734,88.14578 z"
+         id="path175" />
+      <path
+         style="fill:#999999;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 93.875876,132.17064 70.592734,88.14578 h 27.97914 l -70.59273,-88.14578 z"
+         id="path179" />
+      <g
+         id="g481"
+         transform="translate(16.716613,-14.422114)">
+        <g
+           id="g191"
+           transform="translate(70.592728,88.145777)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect12"
+             width="27.979143"
+             height="27.979143"
+             x="49.180119"
+             y="62.655323" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect14"
+             width="27.979143"
+             height="27.979143"
+             x="49.180119"
+             y="90.634468" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect16"
+             width="27.979143"
+             height="27.979143"
+             x="49.180119"
+             y="118.61361" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect18"
+             width="27.979143"
+             height="27.979143"
+             x="49.180119"
+             y="146.59276" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect20"
+             width="27.979143"
+             height="27.979143"
+             x="77.159264"
+             y="62.655323" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect22"
+             width="27.979143"
+             height="27.979143"
+             x="105.1384"
+             y="62.655323" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect24"
+             width="27.979143"
+             height="27.979143"
+             x="77.159264"
+             y="118.61362" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect10"
+             width="27.979143"
+             height="27.979143"
+             x="49.180122"
+             y="174.5719" />
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="80.400131"
+             y="142.94852"
+             id="text28"><tspan
+               sodipodi:role="line"
+               id="tspan26"
+               x="80.400131"
+               y="142.94852"
+               style="stroke-width:0.264583">0</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="107.85006"
+             y="143.56223"
+             id="text36"><tspan
+               sodipodi:role="line"
+               id="tspan34"
+               x="107.85006"
+               y="143.56223"
+               style="stroke-width:0.264583">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="107.04756"
+             y="117.11719"
+             id="text40"><tspan
+               sodipodi:role="line"
+               id="tspan38"
+               x="107.04756"
+               y="117.11719"
+               style="stroke-width:0.264583">2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="79.743401"
+             y="115.71145"
+             id="text44"><tspan
+               sodipodi:role="line"
+               id="tspan42"
+               x="79.743401"
+               y="115.71145"
+               style="stroke-width:0.264583">3</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="81.351089"
+             y="87.222008"
+             id="text48"><tspan
+               sodipodi:role="line"
+               id="tspan46"
+               x="81.351089"
+               y="87.222008"
+               style="stroke-width:0.264583">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="135.64404"
+             y="88.250648"
+             id="text110"><tspan
+               sodipodi:role="line"
+               id="tspan108"
+               x="135.64404"
+               y="88.250648"
+               style="stroke-width:0.264583">5</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="135.24635"
+             y="60.028008"
+             id="text32"><tspan
+               sodipodi:role="line"
+               id="tspan30"
+               x="135.24635"
+               y="60.028008"
+               style="stroke-width:0.264583">6</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="79.900841"
+             y="60.032734"
+             id="text56"><tspan
+               sodipodi:role="line"
+               id="tspan54"
+               x="79.900841"
+               y="60.032734"
+               style="stroke-width:0.264583">7</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="42.503052"
+             y="58.360077"
+             id="text60"><tspan
+               sodipodi:role="line"
+               id="tspan58"
+               x="42.503052"
+               y="58.360077"
+               style="stroke-width:0.264583"> 10</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="51.11871"
+             y="199.58855"
+             id="text52"><tspan
+               sodipodi:role="line"
+               id="tspan50"
+               x="51.11871"
+               y="199.58855"
+               style="stroke-width:0.264583">8</tspan></text>
+          <ellipse
+             style="fill:#0000ff;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse64"
+             cx="48.839249"
+             cy="202.00229"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#0000ff;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse66"
+             cx="77.015594"
+             cy="202.36423"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#ff0000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse68"
+             cx="78.543854"
+             cy="146.10507"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#ff0000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse70"
+             cx="78.396194"
+             cy="118.64635"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#ff0000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse72"
+             cx="104.48318"
+             cy="119.01508"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#ff0000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse74"
+             cx="105.07518"
+             cy="146.02608"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#008000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse76"
+             cx="78.982834"
+             cy="89.977966"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#0000ff;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse84"
+             cx="75.684219"
+             cy="63.053268"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#008000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse78"
+             cx="78.554039"
+             cy="63.048798"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#0000ff;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse80"
+             cx="49.517994"
+             cy="63.201248"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#008000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="ellipse82"
+             cx="133.05829"
+             cy="62.511597"
+             rx="2.0652704"
+             ry="2.076551" />
+          <ellipse
+             style="fill:#008000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="path62"
+             cx="132.89017"
+             cy="89.720299"
+             rx="2.0652704"
+             ry="2.076551" />
+          <text
+             xml:space="preserve"
+             style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="80.242996"
+             y="199.76422"
+             id="text88"><tspan
+               sodipodi:role="line"
+               id="tspan86"
+               x="80.242996"
+               y="199.76422"
+               style="stroke-width:0.264583">9</tspan></text>
+        </g>
+        <rect
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect193"
+           width="27.979143"
+           height="27.979143"
+           x="49.180119"
+           y="62.655323" />
+        <rect
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect195"
+           width="27.979143"
+           height="27.979143"
+           x="49.180119"
+           y="90.634468" />
+        <rect
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect197"
+           width="27.979143"
+           height="27.979143"
+           x="49.180119"
+           y="118.61361" />
+        <rect
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect199"
+           width="27.979143"
+           height="27.979143"
+           x="49.180119"
+           y="146.59276" />
+        <rect
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect201"
+           width="27.979143"
+           height="27.979143"
+           x="77.159264"
+           y="62.655323" />
+        <rect
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect203"
+           width="27.979143"
+           height="27.979143"
+           x="105.1384"
+           y="62.655323" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect205"
+           width="27.979143"
+           height="27.979143"
+           x="77.159264"
+           y="118.61362" />
+        <rect
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect207"
+           width="27.979143"
+           height="27.979143"
+           x="49.180122"
+           y="174.5719" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="80.400131"
+           y="142.94852"
+           id="text211"><tspan
+             sodipodi:role="line"
+             id="tspan209"
+             x="80.400131"
+             y="142.94852"
+             style="stroke-width:0.264583">11</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="107.85006"
+           y="143.56223"
+           id="text215"><tspan
+             sodipodi:role="line"
+             id="tspan213"
+             x="107.85006"
+             y="143.56223"
+             style="stroke-width:0.264583">12</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="107.04756"
+           y="117.11719"
+           id="text219"><tspan
+             sodipodi:role="line"
+             id="tspan217"
+             x="107.04756"
+             y="117.11719"
+             style="stroke-width:0.264583">13</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="79.743401"
+           y="115.71145"
+           id="text223"><tspan
+             sodipodi:role="line"
+             id="tspan221"
+             x="79.743401"
+             y="115.71145"
+             style="stroke-width:0.264583">14</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="81.351089"
+           y="87.222008"
+           id="text227"><tspan
+             sodipodi:role="line"
+             id="tspan225"
+             x="81.351089"
+             y="87.222008"
+             style="stroke-width:0.264583">15</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="135.64404"
+           y="88.250648"
+           id="text231"><tspan
+             sodipodi:role="line"
+             id="tspan229"
+             x="135.64404"
+             y="88.250648"
+             style="stroke-width:0.264583">16</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="135.24635"
+           y="60.028008"
+           id="text235"><tspan
+             sodipodi:role="line"
+             id="tspan233"
+             x="135.24635"
+             y="60.028008"
+             style="stroke-width:0.264583">17</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="79.900841"
+           y="60.032734"
+           id="text239"><tspan
+             sodipodi:role="line"
+             id="tspan237"
+             x="79.900841"
+             y="60.032734"
+             style="stroke-width:0.264583">18</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="42.503052"
+           y="58.360077"
+           id="text243"><tspan
+             sodipodi:role="line"
+             id="tspan241"
+             x="42.503052"
+             y="58.360077"
+             style="stroke-width:0.264583"> 21</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="51.11871"
+           y="199.58855"
+           id="text247"><tspan
+             sodipodi:role="line"
+             id="tspan245"
+             x="51.11871"
+             y="199.58855"
+             style="stroke-width:0.264583">19</tspan></text>
+        <ellipse
+           style="fill:#0000ff;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse249"
+           cx="48.839249"
+           cy="202.00229"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#0000ff;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse251"
+           cx="77.015594"
+           cy="202.36423"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#ff0000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse253"
+           cx="78.543854"
+           cy="146.10507"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#ff0000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse255"
+           cx="78.396194"
+           cy="118.64635"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#ff0000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse257"
+           cx="104.48318"
+           cy="119.01508"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#ff0000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse259"
+           cx="105.07518"
+           cy="146.02608"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#008000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse261"
+           cx="78.982834"
+           cy="89.977966"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#0000ff;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse263"
+           cx="75.684219"
+           cy="63.053268"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#008000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse265"
+           cx="78.554039"
+           cy="63.048798"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#0000ff;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse267"
+           cx="49.517994"
+           cy="63.201248"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#008000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse269"
+           cx="133.05829"
+           cy="62.511597"
+           rx="2.0652704"
+           ry="2.076551" />
+        <ellipse
+           style="fill:#008000;stroke:none;stroke-width:2.54;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="ellipse271"
+           cx="132.89017"
+           cy="89.720299"
+           rx="2.0652704"
+           ry="2.076551" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.14457px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="80.242996"
+           y="199.76422"
+           id="text275"><tspan
+             sodipodi:role="line"
+             id="tspan273"
+             x="80.242996"
+             y="199.76422"
+             style="stroke-width:0.264583">20</tspan></text>
+      </g>
+      <path
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.48582543"
+         d="m 93.600458,104.1915 70.987212,88.14577 28.13549,1e-5 -70.98721,-88.14578 z"
+         id="path112" />
+      <g
+         id="g317"
+         transform="translate(22.012407,19.937875)"
+         style="fill:#999999">
+        <g
+           id="g173"
+           transform="translate(-51.497047,-93.376881)"
+           style="fill:#999999">
+          <path
+             style="fill:#999999;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 86.175271,300.12976 h 21.662219 l 18.21828,22.77346 h -21.66222 z"
+             id="path328" />
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#999999"
+             x="77.807159"
+             y="298.67108"
+             id="text142"><tspan
+               sodipodi:role="line"
+               id="tspan140"
+               x="77.807159"
+               y="298.67108"
+               style="stroke-width:0.264583;fill:#999999">19</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#999999"
+             x="96.46611"
+             y="328.88049"
+             id="text146"><tspan
+               sodipodi:role="line"
+               id="tspan144"
+               x="96.46611"
+               y="328.88049"
+               style="stroke-width:0.264583;fill:#999999">8</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#999999"
+             x="101.26737"
+             y="298.83008"
+             id="text150"><tspan
+               sodipodi:role="line"
+               id="tspan148"
+               x="101.26737"
+               y="298.83008"
+               style="stroke-width:0.264583;fill:#999999">20</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Noto Sans Mende Kikakui';-inkscape-font-specification:'Noto Sans Mende Kikakui';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#999999"
+             x="125.96989"
+             y="324.98514"
+             id="text154"><tspan
+               sodipodi:role="line"
+               id="tspan152"
+               x="125.96989"
+               y="324.98514"
+               style="stroke-width:0.264583;fill:#999999">9</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

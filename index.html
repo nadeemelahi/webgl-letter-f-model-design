@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>fullscreen canvas</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html, body { height: 100%; margin: 0; }
+body { background: #cff; }
+canvas { width: 100%; height: 100%; 
+	display: block; margin: auto;
+	background: #fcf;
+}
+</style>
+</head>
+<body>
+<canvas width="400" height="400"></canvas>
+
+<script id="vertex-shader-2d" type="x-shader/x-fragment">
+attribute vec3 vert; 
+uniform float xAngle;
+uniform float yAngle;
+uniform float zAngle;
+uniform float xScale;
+uniform float yScale;
+uniform float zScale;
+uniform float xLoc;
+uniform float yLoc;
+uniform float zLoc;
+attribute vec3 colour;
+varying vec3 vcolour;
+void main(void){
+	float zAngleRadians = radians(zAngle);
+	float cz = cos(zAngleRadians); 
+	float sz = sin(zAngleRadians); 
+
+	mat4 rotateZ = mat4( cz  ,  sz , 0.0 , 0.0 ,
+			    -sz  ,  cz , 0.0 , 0.0 ,
+			     0.0 , 0.0 , 1.0 , 0.0 ,
+			     0.0 , 0.0 , 0.0 , 1.0     );
+
+	float yAngleRadians = radians(yAngle);
+	float cy = cos(yAngleRadians); 
+	float sy = sin(yAngleRadians); 
+	mat4 rotateY = mat4( cy  , 0.0 , sy  , 0.0 ,
+			     0.0 , 1.0 , 0.0 , 0.0 ,
+			    -sy  , 0.0 , cy  , 0.0 ,
+			     0.0 , 0.0 , 0.0 , 1.0     );
+
+	float xAngleRadians = radians(xAngle);
+	float cx = cos(xAngleRadians); 
+	float sx = sin(xAngleRadians); 
+	mat4 rotateX = mat4( 1.0 , 0.0 , 0.0 , 0.0 ,
+			     0.0 , cx  , sx  , 0.0 ,
+			     0.0 ,-sx  , cx  , 0.0 ,
+			     0.0 , 0.0 , 0.0 , 1.0     );
+
+	mat4 rotate = rotateX * rotateY * rotateZ;
+
+	mat4 scale = mat4( xScale , 0.0    , 0.0    , 0.0 ,
+			    0.0   , yScale , 0.0    , 0.0 ,
+			    0.0   , 0.0    , zScale , 0.0 ,
+			    0.0   , 0.0    , 0.0    , 1.0 	);
+
+	mat4 loc = mat4(  1.0  , 0.0  , 0.0  , 0.0 ,
+			  0.0  , 1.0  , 0.0  , 0.0 ,
+			  0.0  , 0.0  , 1.0  , 0.0 ,
+			  xLoc , yLoc , zLoc , 1.0     );
+
+	gl_Position =  loc * scale * rotate * vec4(vert , 1.0);
+	vcolour = colour;
+}
+</script><script id="fragment-shader-2d" type="x-shader/x-fragment">
+precision mediump float;
+varying vec3 vcolour;
+void main(void){
+	gl_FragColor = vec4(vcolour , 1.0);
+}
+</script>
+
+<script src="./a00init.js"></script>
+<script src="./c00app.js"></script>	
+</body>
+</html>
